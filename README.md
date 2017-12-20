@@ -1,3 +1,3 @@
 # CSP
 
-Anything related to contraint satisfaction problems.
+Anything related to constraint satisfaction problems.
